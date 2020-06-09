@@ -1,3 +1,5 @@
 {
-  "status":"disable"
+  "stp-status":{
+    "status":"disable"
+  }
 }
