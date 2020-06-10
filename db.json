@@ -1,5 +1,7 @@
 {
     "stp-status":{
-    "status":"disable"
+    "status":"disable",
+    "fname" : "Aditya",
+    "lname" : "Bharadwaj"
     }
 }
